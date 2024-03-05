@@ -4,7 +4,7 @@
   "description": "Hello world to discord bots",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --name my-discord-bot"
+    "start": "pm2 start index.js --name trello_ninja"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,32 @@
+[
+  {
+    id: '653cf86ac7483a9e273fe164',
+    name: 'To Do',
+    closed: false,
+    idBoard: '653cf86ac7483a9e273fe15d',
+    pos: 16384,
+    subscribed: false,
+    softLimit: null,
+    status: null
+  },
+  {
+    id: '653cf86ac7483a9e273fe165',
+    name: 'Doing',
+    closed: false,
+    idBoard: '653cf86ac7483a9e273fe15d',
+    pos: 32768,
+    subscribed: false,
+    softLimit: null,
+    status: null
+  },
+  {
+    id: '653cf86ac7483a9e273fe166',
+    name: 'Done',
+    closed: false,
+    idBoard: '653cf86ac7483a9e273fe15d',
+    pos: 49152,
+    subscribed: false,
+    softLimit: null,
+    status: null
+  }
+]

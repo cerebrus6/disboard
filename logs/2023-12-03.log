@@ -1,0 +1,9 @@
+Sun, 03 Dec 2023 12:43:00 GMT - Error: Cannot find module './database_connection.js'
+Require stack:
+- C:\Users\Dio\Desktop\C.O.D.E\discordBotSandbox\node_modules\cerebrus6core\core.js
+Sun, 03 Dec 2023 12:43:23 GMT - Error: Cannot find module './database_connection.js'
+Require stack:
+- C:\Users\Dio\Desktop\C.O.D.E\discordBotSandbox\node_modules\cerebrus6core\core.js
+Sun, 03 Dec 2023 12:43:48 GMT - Error: Cannot find module './database_connection.js'
+Require stack:
+- C:\Users\Dio\Desktop\C.O.D.E\discordBotSandbox\node_modules\cerebrus6core\core.js

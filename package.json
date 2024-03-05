@@ -1,0 +1,46 @@
+{
+  "name": "testbot",
+  "version": "1.0.0",
+  "description": "Hello world to discord bots",
+  "main": "index.js",
+  "scripts": {
+    "start": "pm2 start index.js --name my-discord-bot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cerebrus6/discordBotSandbox.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "type": "module",
+  "author": "cerebrus6",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cerebrus6/discordBotSandbox/issues"
+  },
+  "homepage": "https://github.com/cerebrus6/discordBotSandbox#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bluebird": "^3.7.2",
+    "cerebrus6core": "^1.0.0",
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.18.3",
+    "pm2": "^5.3.1"
+  },
+  "devDependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.2",
+    "pg": "^8.11.3"
+  },
+  "exports": {
+    "import": "./main.js"
+  },
+  "module": {
+    "paths": {
+      "@core": "./core/core.js"
+    }
+  }
+}
